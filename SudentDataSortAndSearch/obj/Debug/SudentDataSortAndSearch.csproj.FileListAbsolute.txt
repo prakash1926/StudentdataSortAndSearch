@@ -1,0 +1,7 @@
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\bin\Debug\SudentDataSortAndSearch.exe.config
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\bin\Debug\SudentDataSortAndSearch.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\bin\Debug\SudentDataSortAndSearch.pdb
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\obj\Debug\SudentDataSortAndSearch.csproj.AssemblyReference.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\obj\Debug\SudentDataSortAndSearch.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\obj\Debug\SudentDataSortAndSearch.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\SudentDataSortAndSearch\SudentDataSortAndSearch\obj\Debug\SudentDataSortAndSearch.pdb
